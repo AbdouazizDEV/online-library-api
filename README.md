@@ -96,7 +96,7 @@ Exemple de `.env` :
 
 ```env
 PORT=3000
-DATABASE_URL=mongodb://localhost:27017/online-library
+DATABASE_URL=mongodb+srv://abdouazizdiop583:DJzZYiw2qJjlw5py@cluster0.warb2.mongodb.net/
 JWT_SECRET=mysecretkey
 ```
 
